@@ -4,7 +4,7 @@ title: Unscene privacy policy
 
 # Unscene privacy policy
 
-_Last updated: November 12, 2026_
+_Last updated: November 20, 2026_
 
 Unscene is a browser extension that hides stories about people you choose not to see. It has no account, no server, no analytics and no ads. This policy explains everything it stores and every request it makes.
 
@@ -24,11 +24,11 @@ When you click the toolbar icon, Unscene reads the current tab's address, to sho
 
 ## Requests Unscene makes
 
-Unscene contacts only one site, and only if you turn on Good news mode for someone:
+Unscene contacts Small Wins and Unsplash only if you turn on Good news mode for someone:
 
-- **Daily headlines.** Once a day, it downloads the latest public posts from Good News Network (goodnewsnetwork.org). The request carries no cookies and contains nothing about you, your list or the pages you visit.
-- **Card photos.** Headline photos load from goodnewsnetwork.org without a referrer, so Good News Network can't tell which site the card appeared on. Like any image from another site, loading it does tell their server that someone loaded it, and, if your browser allows third-party cookies, may carry cookies Good News Network has set.
-- **Opening an article.** Clicking a headline opens the article on goodnewsnetwork.org in a new tab, as an ordinary visit.
+- **Daily headlines.** Once a day, it downloads the latest stories from Small Wins (smallwins.news), in Portuguese if your browser's language is Portuguese and in English otherwise. The request carries no cookies and contains nothing about you, your list or the pages you visit. Like any website, Small Wins' host sees the request's IP address.
+- **Card photos.** Headline photos load from Unsplash (images.unsplash.com) without a referrer, so Unsplash can't tell which site the card appeared on. Like any image from another site, loading it does tell Unsplash's server that someone loaded it.
+- **Opening a story.** Clicking a headline opens the story on smallwins.news in a new tab, and clicking a photo credit opens the photographer's page on unsplash.com, as ordinary visits.
 
 In Replace mode you can choose your own pictures by web address. Unscene loads them from that address, without a referrer.
 
@@ -42,7 +42,7 @@ The "Fill these in with an AI chat" feature only copies a prompt to your clipboa
 
 ## Third parties
 
-Good News Network is an independent site with its own privacy policy. Unscene isn't affiliated with it.
+Small Wins is a good-news site by Unscene's developer. Unsplash is an independent photo site with its own privacy policy; Unscene isn't affiliated with it.
 
 ## Changes
 
