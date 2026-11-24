@@ -13,6 +13,7 @@ Unscene is a browser extension that hides stories about people you choose not to
 - **Your list and settings.** The people you add, their nicknames, how their stories should look, and your per-site choices. These are saved in your browser's extension storage. If you use Chrome sync, Chrome copies them to your other computers through your Google account. Unscene's developer never receives them.
 - **Good news headlines.** If you turn on Good news mode, the day's headlines (title, link and image address) are saved in your browser's local storage.
 - **Hidden-item counts.** The number of items hidden on each open tab, for the toolbar badge. These are kept only while Chrome is running.
+- **Totals per entry.** How many stories each person or topic on your list has hidden, shown next to it on the options page. These are saved in your browser's local storage, are never synced or sent anywhere, and are deleted with the entry.
 
 Removing Unscene deletes this data from your browser.
 
