@@ -4,7 +4,7 @@ title: Unscene privacy policy
 
 # Unscene privacy policy
 
-_Last updated: November 20, 2026_
+_Last updated: November 24, 2026_
 
 Unscene is a browser extension that hides stories about people you choose not to see. It has no account, no server, no analytics and no ads. This policy explains everything it stores and every request it makes.
 
@@ -32,6 +32,8 @@ Unscene contacts Small Wins and Unsplash only if you turn on Good news mode for 
 
 In Replace mode you can choose your own pictures by web address. Unscene loads them from that address, without a referrer.
 
+**Find other names.** When you click "Look up" on an entry, Unscene sends that entry's name, and your browser's languages, to Wikidata (www.wikidata.org), a free public database run by the Wikimedia Foundation. If Wikidata has more than one match, a second request asks for the one you pick. These requests carry no cookies and nothing else from your list or the pages you visit. Like any website, Wikidata sees the request's IP address. Unscene never contacts Wikidata unless you click the button.
+
 The "Fill these in with an AI chat" feature only copies a prompt to your clipboard. Unscene doesn't contact any AI service.
 
 ## What Unscene never does
@@ -42,7 +44,7 @@ The "Fill these in with an AI chat" feature only copies a prompt to your clipboa
 
 ## Third parties
 
-Small Wins is a good-news site by Unscene's developer. Unsplash is an independent photo site with its own privacy policy; Unscene isn't affiliated with it.
+Small Wins is a good-news site by Unscene's developer. Unsplash is an independent photo site, and Wikidata is run by the Wikimedia Foundation; each has its own privacy policy, and Unscene isn't affiliated with either.
 
 ## Changes
 
